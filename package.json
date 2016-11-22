@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "README.md"
   ]
 }
