@@ -2,7 +2,6 @@
   "name": "hello_display",
   "version": "1.0.0",
   "description": "asvasv",
-  "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
